@@ -13,7 +13,10 @@ Image of _Raw_ Almonds
 var myVar = "Hi, Trees!";
 ```
 
-
+- [x] Wake up
+- [x] Walk the dogs
+- [] Eat breakfast
+- [] Go to work
 
 
 
@@ -24,3 +27,4 @@ var myVar = "Hi, Trees!";
 
 I have now added a picture.
 Added a code example.
+Added a task list
