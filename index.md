@@ -4,6 +4,8 @@
 #### <h4> Trees
 
 
+Image of _Raw_ Almonds
+![Image of Raw Almonds](https://www.ohnuts.com/noapp/showImage.cfm/zoom/Raw%20Almond%20NEW1.jpg)
 
 
 
@@ -16,4 +18,6 @@
 
 
 
-I added a few texts to the document.
+
+
+I have now added a picture.
