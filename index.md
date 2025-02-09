@@ -9,7 +9,9 @@ Image of _Raw_ Almonds
 
 
 
-
+``` javascript
+var myVar = "Hi, Trees!";
+```
 
 
 
@@ -21,3 +23,4 @@ Image of _Raw_ Almonds
 
 
 I have now added a picture.
+Added a code example.
